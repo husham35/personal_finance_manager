@@ -271,7 +271,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or feedback, please contact:
 
 - **Name**: Hamza Husein
-- **Email**: [email](husham35@gmail.com)
-- **GitHub**: [Github](https://github.com/husham35/)
+- **Email**: [husham35@gmail.com](husham35@gmail.com)
+- **GitHub**: [https://github.com/husham35/](https://github.com/husham35/)
 
 Thank you for your interest in the Personal Finance Manager project!
